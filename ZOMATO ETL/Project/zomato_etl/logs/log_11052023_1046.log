@@ -1,0 +1,1 @@
+job_id_11_10_46_54,'module_1',spark-submit --driver-java-options -Dlog4j.configuration='file:///home/talentum/spark/conf/log4j.tmp.properties' --master yarn --deploy-mode cluster /home/talentum/Project/zomato_etl/spark/py/module1.py,2023-05-11 10:47:01,2023-05-11 10:48:10,'SUCCESS'

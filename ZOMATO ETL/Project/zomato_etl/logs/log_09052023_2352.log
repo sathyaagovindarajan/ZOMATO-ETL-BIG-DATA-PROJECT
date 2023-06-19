@@ -1,0 +1,1 @@
+job_id_09_23_52_29,'module_1',spark-submit --master yarn --deploy-mode cluster /home/talentum/Project/zomato_etl/spark/py/module1.py,2023-05-09 23:52:34,2023-05-09 23:53:24,'SUCCESS'
